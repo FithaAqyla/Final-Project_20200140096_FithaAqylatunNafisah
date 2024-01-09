@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Splash screen file, saved 1/9/2024 11:07:57 PM using CourseLab 200726 -->
+<splash>
+<settings>
+<showsplash>yes</showsplash>
+<fitwindow>no</fitwindow>
+<fit_small_window>yes</fit_small_window>
+</settings>
+<data>
+<![CDATA[<img src="images/Ar-Rahman (1).png" style="position:absolute;left:0px;top:0px;width:721px;height:1283px;"/><div style="position: absolute; left: 286px; top: 700px; width: 150px; height: 50px;"><div style="position: absolute; width: 150px; height: 50px; -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;" title="MULAI" ><div id="EM3_TTL_BTN_BTN" style="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 150px; height: 50px; border-style: solid; border-width: 1px; border-color: #004080; -o-border-radius: 30px; -ms-border-radius: 30px; -moz-border-radius: 30px; -webkit-border-radius: 30px; border-radius: 30px;border-color: #004080; background-color: #EAFAEE;" onmouseover="this.setAttribute('style', this.getAttribute('data-style-over'));" onmouseout="this.setAttribute('style', this.getAttribute('data-style-idle'));" onclick="CL.Start(); return false;" data-style-idle="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 150px; height: 50px; border-style: solid; border-width: 1px; border-color: #004080; -o-border-radius: 30px; -ms-border-radius: 30px; -moz-border-radius: 30px; -webkit-border-radius: 30px; border-radius: 30px;border-color: #004080; background-color: #EAFAEE;" data-style-over="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 150px; height: 50px; border-style: solid; border-width: 1px; border-color: #004080; -o-border-radius: 30px; -ms-border-radius: 30px; -moz-border-radius: 30px; -webkit-border-radius: 30px; border-radius: 30px;border-color: #004080; background-color: #EAFAEE;"><div id="EM3_TTL_BTN_BTN_BG" style="position: relative; padding: 0; margin: 0; width: 148px; height: 48px; "><table id="EM3_TTL_BTN_BTN_TABLE" style="border-spacing: 0; width: 148px; height: 48px;"><tr><td id="EM3_TTL_BTN_BTN_TABLE_CONTENT" style="text-align: center; vertical-align: middle; padding: 0; text-shadow: ; width: 148px; height: 48px; font-family: robotoregular, Arial, Helvetica, sans-serif; font-size: 20px; color: #698476; font-weight: bold;">MULAI</td></tr></table></div></div></div></div>]]>
+</data>
+</splash>

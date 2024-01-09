@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Module file, saved 1/9/2024 11:07:57 PM by Aqyla-PC using CourseLab 200726 -->
+<module format="3.2 200726" rev="2" slideWidth="720" slideHeight="1280" template="" file="E:\Kuliah\Semester 7\Multimedia\projectuas\1\1.xml">
+<font face="robotoregular, Arial, Helvetica, sans-serif" style="1" size="18" color="#000000"/>
+<default_text></default_text>
+<newids slide="SLIDE_" subslide="FRAME_" iebox="TXT_" image="IMG_" object="OBJ_" group="GROUP_"/>
+<import masterid="" left="0" top="0" width="0" height="0" commentsLeft="0" commentsTop="0" commentsWidth="0" commentsHeight="0" importComments="no" commentscolor="#000000" fiximages="yes"/>
+<runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
+<nextidentity slide="26" subslide="0" object="0" group="0" mousepointer="0" actionbox="0"/>
+<moduleColors>
+<color>996600</color>
+<color>cc9900</color>
+<color>ffcc00</color>
+<color>ffff00</color>
+<color>ffff99</color>
+<color>ffdb9d</color>
+<color>ffcc66</color>
+<color>ff9933</color>
+<color>ff794b</color>
+<color>ff3300</color>
+<color>990000</color>
+<color>333366</color>
+<color>003399</color>
+<color>0066cc</color>
+<color>0083d7</color>
+<color>0099ff</color>
+<color>3e9ade</color>
+<color>99ccff</color>
+<color>b4e2ff</color>
+<color>deffff</color>
+<color>ffccff</color>
+<color>ccccff</color>
+<color>9999ff</color>
+<color>6666cc</color>
+<color>9999cc</color>
+<color>666699</color>
+<color>006600</color>
+<color>009900</color>
+<color>66cc33</color>
+<color>99ff66</color>
+<color>ccffcc</color>
+</moduleColors>
+<slides>
+<slide guid="b8246390_e345_4943_a988_f092bdc4ef04" id="SLIDE_7" expanded="yes" sid="2" splash="1">
+<subslides>
+<subslide guid="76468a4d_322b_4d4b_8c85_272f3936ba11" id="FRAME_9" expanded="yes" dur="0">
+<objects>
+<object type="image" guid="b85c44a3_84ae_4006_9866_bad3dffc8cdf" id="IMG_17" expanded="yes" left="0" top="0" width="721" height="1283" display="frame" begin="0">
+<src>images\Ar-Rahman (1).png</src>
+</object>
+<object type="div" guid="8b046969_32a0_4a24_abbe_72fccee5d77e" id="EM3_TTL_BTN" expanded="yes" state_extension="false" left="286" top="700" width="150" height="50" display="frame" begin="0">
+<template>splash_button_go</template>
+<design_content><![CDATA[<style >
+		.cl-btn { position: relative; left: 0; top: 0; box-sizing: border-box; width: 150px; height: 50px; }
+		.cl-btn-html { border-style: solid; border-width: 1px; border-color: #004080; -webkit-border-radius: 30px; border-radius: 30px; }
+		.idle { border-color: #004080; background-color: #EAFAEE; }
+		.cl-btn-bg { position: relative; padding: 0; margin: 0; width: 148px; height: 48px;  }
+		.cl-btn-table { border-spacing: 0; width: 148px; height: 48px; }
+		.cl-btn-table td { text-align: center; vertical-align: middle; padding: 0; text-shadow: ; }
+		.cl-btn-table .cl-btn-table-content { width: 148px; height: 48px; font-family: robotoregular, Arial, Helvetica, sans-serif; font-size: 20px; color: #698476; font-weight: bold; }
+	</style><div style="position: absolute; width: 150px; height: 50px;" ><div class="cl-btn cl-btn-html idle"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content">MULAI</td></tr></table></div></div></div>]]></design_content>
+<export_content><![CDATA[<div style="position: absolute; width: 150px; height: 50px; -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;" title="MULAI" ><div id="EM3_TTL_BTN_BTN" style="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 150px; height: 50px; border-style: solid; border-width: 1px; border-color: #004080; -o-border-radius: 30px; -ms-border-radius: 30px; -moz-border-radius: 30px; -webkit-border-radius: 30px; border-radius: 30px;border-color: #004080; background-color: #EAFAEE;" onmouseover="this.setAttribute('style', this.getAttribute('data-style-over'));" onmouseout="this.setAttribute('style', this.getAttribute('data-style-idle'));" onclick="CL.Start(); return false;" data-style-idle="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 150px; height: 50px; border-style: solid; border-width: 1px; border-color: #004080; -o-border-radius: 30px; -ms-border-radius: 30px; -moz-border-radius: 30px; -webkit-border-radius: 30px; border-radius: 30px;border-color: #004080; background-color: #EAFAEE;" data-style-over="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 150px; height: 50px; border-style: solid; border-width: 1px; border-color: #004080; -o-border-radius: 30px; -ms-border-radius: 30px; -moz-border-radius: 30px; -webkit-border-radius: 30px; border-radius: 30px;border-color: #004080; background-color: #EAFAEE;"><div id="EM3_TTL_BTN_BTN_BG" style="position: relative; padding: 0; margin: 0; width: 148px; height: 48px; "><table id="EM3_TTL_BTN_BTN_TABLE" style="border-spacing: 0; width: 148px; height: 48px;"><tr><td id="EM3_TTL_BTN_BTN_TABLE_CONTENT" style="text-align: center; vertical-align: middle; padding: 0; text-shadow: ; width: 148px; height: 48px; font-family: robotoregular, Arial, Helvetica, sans-serif; font-size: 20px; color: #698476; font-weight: bold;">MULAI</td></tr></table></div></div></div>]]></export_content>
+<params>
+<btn_text type="edit">MULAI</btn_text>
+<btn_type type="select">html</btn_type>
+<fs_image type="fieldset"></fs_image>
+<n1_img type="file"></n1_img>
+<n2_img type="file"></n2_img>
+<fs_html type="fieldset"></fs_html>
+<content type="select">text</content>
+<fs_bg_img type="fieldset"></fs_bg_img>
+<bg_img_1 type="file"></bg_img_1>
+<bg_img_2 type="file"></bg_img_2>
+<bg_position type="select">center</bg_position>
+<bg_type type="select">solid</bg_type>
+<bg_color type="color">#EAFAEE</bg_color>
+<gradient_color type="color">#A6E1FF</gradient_color>
+<border_style type="select">none</border_style>
+<border_color type="color">#004080</border_color>
+<border_width type="spinner">1</border_width>
+<border_radius type="spinner">30</border_radius>
+<fs_text type="fieldset"></fs_text>
+<font type="select">robotoregular</font>
+<font_custom type="edit"></font_custom>
+<font_style type="select">bold</font_style>
+<font_color type="color">#698476</font_color>
+<font_size type="spinner">20</font_size>
+<text_shadow_color type="color">#FFFFFF</text_shadow_color>
+<text_shadow_strength type="select">none</text_shadow_strength>
+<shadow_strength type="select">none</shadow_strength>
+<action type="select">go</action>
+<objectid type="objectid"></objectid>
+</params>
+</object>
+</objects>
+</subslide>
+</subslides>
+</slide>
+<slide guid="48dc9e99_c635_4e4a_b01f_953b23cb95b8" id="SLIDE_MASTER" expanded="yes" sid="1" master="1">
+<subslides>
+<subslide guid="fb174841_e7ec_48aa_a41e_8be5d012c368" id="FRAME_4" expanded="yes" dur="0">
+<objects>
+<object type="image" guid="68c38d23_05db_4e93_b6a7_4a7de42a7583" id="IMG_18" expanded="yes" left="-7" top="-2" width="727" height="1281" display="frame" begin="0">
+<src>images\Ar-Rahman (2).png</src>
+</object>
+<object type="div" guid="391c551a_b617_42d9_a040_dc2108e16808" id="OBJ_3" expanded="yes" left="301" top="758" width="122" height="109" display="frame" begin="0">
+<default_text>text_main</default_text>
+<default_color_bg>bg_color</default_color_bg>
+<default_color_border>border_color</default_color_border>
+<theme>theme</theme>
+<template>basic_textbox</template>
+<design_content><![CDATA[<div class="clo-basic_textbox cl-container cl-theme-light" ><div class="cl-outer-box  unselectable" style="width: 120px; height: 107px; background-color: #EAFAEE; border-color: #698476; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; -moz-box-shadow: 1px 1px 2px rgba(204,204,204,0.3); -webkit-box-shadow: 1px 1px 2px rgba(204,204,204,0.3); box-shadow: 1px 1px 2px rgba(204,204,204,0.3);"><div class="cl-inner-box" style="width: 112px; height: 99px; overflow: hidden; padding: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;"><div class="cl-txt-container" style="width: 92px; height: 79px; padding: 10px;"><div class="cl-txt-box" style="width: 92px; height: 79px; overflow: auto;"><table class="cl-txt-box-table" style="width: 100%; border-spacing: 0; min-height: 79px;"><tr><td class="cl-txt-box-cell " style="width: 100%; padding: 0; vertical-align: top; min-height: 79px;"></td></tr></table></div></div></div></div></div>]]></design_content>
+<export_content><![CDATA[<div class="cl-container cl-theme-light unselectable" ><div class="cl-outer-box  unselectable" style="width: 120px; height: 107px; background-color: #EAFAEE; border-color: #698476; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; -moz-box-shadow: 1px 1px 2px rgba(204,204,204,0.3); -webkit-box-shadow: 1px 1px 2px rgba(204,204,204,0.3); box-shadow: 1px 1px 2px rgba(204,204,204,0.3);"><div class="cl-inner-box" style="width: 112px; height: 99px; overflow: hidden; padding: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;"><div class="cl-txt-container" style="width: 92px; height: 79px; padding: 10px;"><div class="cl-txt-box" style="width: 92px; height: 79px; overflow: auto;"><table class="cl-txt-box-table" style="width: 100%; border-spacing: 0; min-height: 79px;"><tr><td class="cl-txt-box-cell " style="width: 100%; padding: 0; vertical-align: top; min-height: 79px;"></td></tr></table></div></div></div></div></div>]]></export_content>
+<params>
+<hidden.text_area_warning type="edit">Text area is too small</hidden.text_area_warning>
+<text_main type="textedit">&lt;ietext&gt;&lt;text&gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</text_main>
+<theme type="select">light</theme>
+<bg_color type="color">#EAFAEE</bg_color>
+<border_color type="color">#698476</border_color>
+<fs_profile_text type="fieldset"></fs_profile_text>
+<stroke_weight type="spinner">1</stroke_weight>
+<border_radius type="spinner">10</border_radius>
+<gradient_angle type="spinner">0</gradient_angle>
+<border_style type="select">solid</border_style>
+<fs_profile_custom type="fieldset"></fs_profile_custom>
+<gradient_color type="color">#CEE0FF</gradient_color>
+<hide_on_click type="check">no</hide_on_click>
+<close_title type="edit">Click to close</close_title>
+<size_to type="select">container</size_to>
+<valign type="select">top</valign>
+<overflow type="select">auto</overflow>
+<shadow_strength type="select">extralight</shadow_strength>
+<text_padding type="spinner">10</text_padding>
+<typewriter type="check">no</typewriter>
+<typewriter_speed type="spinner">5</typewriter_speed>
+</params>
+</object>
+<object type="image" guid="0e2ad172_39ef_430a_af7b_674dacbfbb4a" id="IMG_20" expanded="yes" left="255" top="906" width="200" height="200" display="frame" begin="0">
+<src>images\mic on.png</src>
+<events>
+<onclick id="IMG_20_1" expanded="yes" type="actions">
+<JAVASCRIPT javascript="micoff();"/>
+<DISPLAY pid="IMG_20" display="none" transition="0" fs_dur="" dur="1000"/>
+<DISPLAY pid="IMG_22" display="inline" transition="0" fs_dur="" dur="1000"/>
+</onclick>
+</events>
+</object>
+<object type="image" guid="3e7b18d2_a77d_4146_ad8c_5854a9fe4db5" id="IMG_22" expanded="yes" left="255" top="909" width="200" height="200" display="frame" begin="0">
+<src>images\mic off.png</src>
+<events>
+<onclick id="IMG_22_1" expanded="yes" type="actions">
+<JAVASCRIPT javascript="micon();"/>
+<DISPLAY pid="IMG_22" display="inline" transition="0" fs_dur="" dur="1000"/>
+<DISPLAY pid="IMG_20" display="none" transition="0" fs_dur="" dur="1000"/>
+</onclick>
+</events>
+</object>
+<object type="image" guid="1f27884c_796e_4be4_a959_340f9cb757ed" id="IMG_15" expanded="yes" left="317" top="1169" width="85" height="85" display="frame" begin="0">
+<src>images\right-arrow.png</src>
+<events>
+<onclick id="IMG_15_1" expanded="yes" type="actions">
+<GOTO option="1" fs_frame="" pid=""/>
+</onclick>
+</events>
+</object>
+<object type="iebox" guid="d3507db2_f817_448f_b5f6_eaad5227c013" id="TXT_1" expanded="yes" left="354" top="599" width="112" height="83" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;span style=&quot;color:#FFFFFF;&quot;&gt;&lt;span style=&quot;font-size:72px;&quot;&gt;فَبِاَيِّ&lt;/span&gt;&lt;/span&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="5bd26105_0917_4ef7_9fb4_4039d0a046a8" id="TXT_2" expanded="yes" left="233" top="599" width="112" height="83" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;span style=&quot;color:#FFFFFF;&quot;&gt;&lt;span style=&quot;font-size:72px;&quot;&gt;&lt;span style=&quot;font-family: amiri_quran; font-style: normal; orphans: 2; text-align: center; widows: 2;&quot;&gt;ءَالَآءِ&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="9911fb03_c65b_4d40_aeb0_8c46b1c512db" id="TXT_5" expanded="yes" left="311" top="685" width="205" height="65" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;color:#FFFFFF;&quot;&gt;&lt;span style=&quot;font-family:comic sans ms,cursive,sans-serif;&quot;&gt;maka yang&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;color:#FFFFFF;&quot;&gt;&lt;span style=&quot;font-family:comic sans ms,cursive,sans-serif;&quot;&gt;manakah &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="7ff71a1b_302b_48e0_91e4_29ce1f098e5f" id="TXT_6" expanded="yes" left="197" top="687" width="205" height="65" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color:#FFFFFF;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:comic sans ms,cursive,sans-serif;&quot;&gt;&lt;span style=&quot;font-style: normal; orphans: 2; text-align: center; widows: 2;&quot;&gt;nikmat&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;color:#FFFFFF;&quot;&gt;&lt;span style=&quot;font-family:comic sans ms,cursive,sans-serif;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</text><hyperlinks/></ietext>]]></content>
+</object>
+</objects>
+</subslide>
+<subslide guid="40c8d467_c1bb_407a_bb14_1d942964af5e" id="FRAME_6" expanded="yes" dur="0">
+</subslide>
+</subslides>
+</slide>
+<slide guid="b2834e58_9552_4ee8_aa5e_9943f8c921a2" id="SLIDE_4" expanded="yes" sid="1" master="1">
+<subslides>
+<subslide guid="271e6252_c672_4af6_bef4_6aa8cc055a98" id="FRAME_7" expanded="yes" dur="0">
+<objects>
+<object type="image" guid="c7a48981_b626_4d0c_b755_0ab6b7de1419" id="IMG_27" expanded="yes" left="-7" top="0" width="727" height="1283" display="frame" begin="0">
+<src>images\Ar-Rahman (2).png</src>
+</object>
+<object type="image" guid="72685448_e62b_4f2b_816e_b334fff70b46" id="IMG_23" expanded="yes" left="253" top="888" width="200" height="200" display="frame" begin="0">
+<src>images\mic on.png</src>
+<events>
+<onclick id="IMG_23_1" expanded="yes" type="actions">
+<JAVASCRIPT javascript="micoff();"/>
+<DISPLAY pid="IMG_23" display="none" transition="0" fs_dur="" dur="1000"/>
+<DISPLAY pid="IMG_24" display="inline" transition="0" fs_dur="" dur="1000"/>
+</onclick>
+</events>
+</object>
+<object type="image" guid="e7129f9a_9792_4ba5_a18f_3d9d986c44ff" id="IMG_24" expanded="yes" left="253" top="892" width="200" height="200" display="frame" begin="0">
+<src>images\mic off.png</src>
+<events>
+<onclick id="IMG_24_1" expanded="yes" type="actions">
+<JAVASCRIPT javascript="micon();"/>
+<DISPLAY pid="IMG_24" display="inline" transition="0" fs_dur="" dur="1000"/>
+<DISPLAY pid="IMG_23" display="none" transition="0" fs_dur="" dur="1000"/>
+</onclick>
+</events>
+</object>
+<object type="div" guid="8eef1816_098b_42f0_8647_4c7002b47efd" id="OBJ_4" expanded="yes" left="290" top="721" width="115" height="109" display="frame" begin="0">
+<default_text>text_main</default_text>
+<default_color_bg>bg_color</default_color_bg>
+<default_color_border>border_color</default_color_border>
+<theme>theme</theme>
+<template>basic_textbox</template>
+<design_content><![CDATA[<div class="clo-basic_textbox cl-container cl-theme-light" ><div class="cl-outer-box  unselectable" style="width: 113px; height: 107px; background-color: #EAFAEE; border-color: #698476; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; -moz-box-shadow: 1px 1px 2px rgba(204,204,204,0.3); -webkit-box-shadow: 1px 1px 2px rgba(204,204,204,0.3); box-shadow: 1px 1px 2px rgba(204,204,204,0.3);"><div class="cl-inner-box" style="width: 105px; height: 99px; overflow: hidden; padding: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;"><div class="cl-txt-container" style="width: 85px; height: 79px; padding: 10px;"><div class="cl-txt-box" style="width: 85px; height: 79px; overflow: auto;"><table class="cl-txt-box-table" style="width: 100%; border-spacing: 0; min-height: 79px;"><tr><td class="cl-txt-box-cell " style="width: 100%; padding: 0; vertical-align: top; min-height: 79px;"></td></tr></table></div></div></div></div></div>]]></design_content>
+<export_content><![CDATA[<div class="cl-container cl-theme-light unselectable" ><div class="cl-outer-box  unselectable" style="width: 113px; height: 107px; background-color: #EAFAEE; border-color: #698476; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; -moz-box-shadow: 1px 1px 2px rgba(204,204,204,0.3); -webkit-box-shadow: 1px 1px 2px rgba(204,204,204,0.3); box-shadow: 1px 1px 2px rgba(204,204,204,0.3);"><div class="cl-inner-box" style="width: 105px; height: 99px; overflow: hidden; padding: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;"><div class="cl-txt-container" style="width: 85px; height: 79px; padding: 10px;"><div class="cl-txt-box" style="width: 85px; height: 79px; overflow: auto;"><table class="cl-txt-box-table" style="width: 100%; border-spacing: 0; min-height: 79px;"><tr><td class="cl-txt-box-cell " style="width: 100%; padding: 0; vertical-align: top; min-height: 79px;"></td></tr></table></div></div></div></div></div>]]></export_content>
+<params>
+<hidden.text_area_warning type="edit">Text area is too small</hidden.text_area_warning>
+<text_main type="textedit">&lt;ietext&gt;&lt;text&gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</text_main>
+<theme type="select">light</theme>
+<bg_color type="color">#EAFAEE</bg_color>
+<border_color type="color">#698476</border_color>
+<fs_profile_text type="fieldset"></fs_profile_text>
+<stroke_weight type="spinner">1</stroke_weight>
+<border_radius type="spinner">10</border_radius>
+<gradient_angle type="spinner">0</gradient_angle>
+<border_style type="select">solid</border_style>
+<fs_profile_custom type="fieldset"></fs_profile_custom>
+<gradient_color type="color">#CEE0FF</gradient_color>
+<hide_on_click type="check">no</hide_on_click>
+<close_title type="edit">Click to close</close_title>
+<size_to type="select">container</size_to>
+<valign type="select">top</valign>
+<overflow type="select">auto</overflow>
+<shadow_strength type="select">extralight</shadow_strength>
+<text_padding type="spinner">10</text_padding>
+<typewriter type="check">no</typewriter>
+<typewriter_speed type="spinner">5</typewriter_speed>
+</params>
+</object>
+<object type="image" guid="6674304d_5259_4a6b_9e58_41a34a838001" id="IMG_16" expanded="yes" left="251" top="1141" width="85" height="85" display="frame" begin="0">
+<src>images\right-arrow (1).png</src>
+<events>
+<onclick id="IMG_16_1" expanded="yes" type="actions">
+<GOTO option="2" fs_frame="" pid=""/>
+</onclick>
+</events>
+</object>
+<object type="image" guid="a3c10f98_6512_4176_bc41_4e4a74fd0d4d" id="IMG_21" expanded="yes" left="366" top="1141" width="85" height="85" display="frame" begin="0">
+<src>images\right-arrow.png</src>
+<events>
+<onclick id="IMG_21_1" expanded="yes" type="actions">
+<GOTO option="1" fs_frame="" pid=""/>
+</onclick>
+</events>
+</object>
+<object type="iebox" guid="454620d7_a711_417a_8cc1_4cbe366d1ba4" id="TXT_3" expanded="yes" left="290" top="588" width="142" height="93" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;span style=&quot;color:#FFFFFF;&quot;&gt;&lt;span style=&quot;font-size:72px;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif;&quot;&gt;رَبِّكُمَا&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="e5a656e9_bfe1_4139_8f0e_e09a34d5bed1" id="TXT_7" expanded="yes" left="245" top="666" width="205" height="65" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color:#FFFFFF;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:comic sans ms,cursive,sans-serif;&quot;&gt;&lt;span style=&quot;font-style: normal; orphans: 2; text-align: center; widows: 2;&quot;&gt;Tuhanmu&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;color:#FFFFFF;&quot;&gt;&lt;span style=&quot;font-family:comic sans ms,cursive,sans-serif;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</text><hyperlinks/></ietext>]]></content>
+</object>
+</objects>
+</subslide>
+<subslide guid="56b05090_2298_42c0_a164_6f9238d8b6a9" id="FRAME_8" expanded="yes" dur="0">
+</subslide>
+</subslides>
+</slide>
+<slide guid="47cc2305_85b9_4f76_9221_1aafc35c6e14" id="SLIDE_5" expanded="yes" sid="1" master="1">
+<subslides>
+<subslide guid="49a62a59_c0e7_4ec2_bfce_e2b667fdfda7" id="FRAME_10" expanded="yes" dur="0">
+<objects>
+<object type="image" guid="9e21daa1_b720_4022_af5f_8e237e4fda20" id="IMG_19" expanded="yes" left="-7" top="-7" width="727" height="1288" display="frame" begin="0">
+<src>images\Ar-Rahman (2).png</src>
+</object>
+<object type="image" guid="55d5aff0_b74a_40d7_93f4_e36dbf651cb3" id="IMG_25" expanded="yes" left="253" top="895" width="200" height="200" display="frame" begin="0">
+<src>images\mic on.png</src>
+<events>
+<onclick id="IMG_25_1" expanded="yes" type="actions">
+<JAVASCRIPT javascript="micoff();"/>
+<DISPLAY pid="IMG_25" display="none" transition="0" fs_dur="" dur="1000"/>
+<DISPLAY pid="IMG_26" display="inline" transition="0" fs_dur="" dur="1000"/>
+</onclick>
+</events>
+</object>
+<object type="image" guid="bea92164_6b88_40e6_b447_8e53a92d3f4a" id="IMG_26" expanded="yes" left="253" top="899" width="200" height="200" display="frame" begin="0">
+<src>images\mic off.png</src>
+<events>
+<onclick id="IMG_26_1" expanded="yes" type="actions">
+<JAVASCRIPT javascript="micon();"/>
+<DISPLAY pid="IMG_26" display="inline" transition="0" fs_dur="" dur="1000"/>
+<DISPLAY pid="IMG_25" display="none" transition="0" fs_dur="" dur="1000"/>
+</onclick>
+</events>
+</object>
+<object type="div" guid="0fdd74df_60f7_4489_bbf2_3e5ffb82fb6d" id="OBJ_5" expanded="yes" left="291" top="754" width="134" height="109" display="frame" begin="0">
+<default_text>text_main</default_text>
+<default_color_bg>bg_color</default_color_bg>
+<default_color_border>border_color</default_color_border>
+<theme>theme</theme>
+<template>basic_textbox</template>
+<design_content><![CDATA[<div class="clo-basic_textbox cl-container cl-theme-light" ><div class="cl-outer-box  unselectable" style="width: 132px; height: 107px; background-color: #EAFAEE; border-color: #698476; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; -moz-box-shadow: 1px 1px 2px rgba(204,204,204,0.3); -webkit-box-shadow: 1px 1px 2px rgba(204,204,204,0.3); box-shadow: 1px 1px 2px rgba(204,204,204,0.3);"><div class="cl-inner-box" style="width: 124px; height: 99px; overflow: hidden; padding: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;"><div class="cl-txt-container" style="width: 104px; height: 79px; padding: 10px;"><div class="cl-txt-box" style="width: 104px; height: 79px; overflow: auto;"><table class="cl-txt-box-table" style="width: 100%; border-spacing: 0; min-height: 79px;"><tr><td class="cl-txt-box-cell " style="width: 100%; padding: 0; vertical-align: top; min-height: 79px;"></td></tr></table></div></div></div></div></div>]]></design_content>
+<export_content><![CDATA[<div class="cl-container cl-theme-light unselectable" ><div class="cl-outer-box  unselectable" style="width: 132px; height: 107px; background-color: #EAFAEE; border-color: #698476; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; -moz-box-shadow: 1px 1px 2px rgba(204,204,204,0.3); -webkit-box-shadow: 1px 1px 2px rgba(204,204,204,0.3); box-shadow: 1px 1px 2px rgba(204,204,204,0.3);"><div class="cl-inner-box" style="width: 124px; height: 99px; overflow: hidden; padding: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;"><div class="cl-txt-container" style="width: 104px; height: 79px; padding: 10px;"><div class="cl-txt-box" style="width: 104px; height: 79px; overflow: auto;"><table class="cl-txt-box-table" style="width: 100%; border-spacing: 0; min-height: 79px;"><tr><td class="cl-txt-box-cell " style="width: 100%; padding: 0; vertical-align: top; min-height: 79px;"></td></tr></table></div></div></div></div></div>]]></export_content>
+<params>
+<hidden.text_area_warning type="edit">Text area is too small</hidden.text_area_warning>
+<text_main type="textedit">&lt;ietext&gt;&lt;text&gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</text_main>
+<theme type="select">light</theme>
+<bg_color type="color">#EAFAEE</bg_color>
+<border_color type="color">#698476</border_color>
+<fs_profile_text type="fieldset"></fs_profile_text>
+<stroke_weight type="spinner">1</stroke_weight>
+<border_radius type="spinner">10</border_radius>
+<gradient_angle type="spinner">0</gradient_angle>
+<border_style type="select">solid</border_style>
+<fs_profile_custom type="fieldset"></fs_profile_custom>
+<gradient_color type="color">#CEE0FF</gradient_color>
+<hide_on_click type="check">no</hide_on_click>
+<close_title type="edit">Click to close</close_title>
+<size_to type="select">container</size_to>
+<valign type="select">top</valign>
+<overflow type="select">auto</overflow>
+<shadow_strength type="select">extralight</shadow_strength>
+<text_padding type="spinner">10</text_padding>
+<typewriter type="check">no</typewriter>
+<typewriter_speed type="spinner">5</typewriter_speed>
+</params>
+</object>
+<object type="image" guid="97fdf29a_e164_4b0c_a4b2_3da321b5f24d" id="IMG_31" expanded="yes" left="251" top="1148" width="85" height="85" display="frame" begin="0">
+<src>images\right-arrow (1).png</src>
+<events>
+<onclick id="IMG_31_1" expanded="yes" type="actions">
+<GOTO option="2" fs_frame="" pid=""/>
+</onclick>
+</events>
+</object>
+<object type="iebox" guid="fec43f23_86ac_453f_8768_7bb168891638" id="TXT_4" expanded="yes" left="289" top="583" width="155" height="93" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;span style=&quot;font-family:comic sans ms,cursive,sans-serif;&quot;&gt;&lt;span style=&quot;color:#FFFFFF;&quot;&gt;&lt;span style=&quot;font-size:72px;&quot;&gt;تُكَذِّبَانِ&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="15e6449f_721f_43d9_8c1e_fc4cb1d9676a" id="TXT_8" expanded="yes" left="210" top="678" width="300" height="50" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color:#FFFFFF;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:comic sans ms,cursive,sans-serif;&quot;&gt;&lt;span style=&quot;font-style: normal; orphans: 2; text-align: center; widows: 2;&quot;&gt;yang kamu&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color:#FFFFFF;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:comic sans ms,cursive,sans-serif;&quot;&gt;&lt;span style=&quot;font-style: normal; orphans: 2; text-align: center; widows: 2;&quot;&gt;dustakan&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</text><hyperlinks/></ietext>]]></content>
+</object>
+</objects>
+</subslide>
+<subslide guid="bd5ac9df_7bc9_499a_8b4d_c63989d49de6" id="FRAME_11" expanded="yes" dur="0">
+</subslide>
+</subslides>
+</slide>
+<slide guid="562e28e4_d1af_4026_8ece_9161639a1a0f" id="SLIDE_1" expanded="yes" sid="3" masterid="SLIDE_MASTER" name="Untitled" indent="0" infinite="1" advance="" transition="" durout="">
+<subslides>
+<subslide guid="6c84c368_222b_40d5_a240_1b91a4302232" id="FRAME_5" expanded="yes" dur="0">
+</subslide>
+</subslides>
+</slide>
+<slide guid="f1cf5daf_e0a1_42ae_83e0_5c8cc2d6325c" id="SLIDE_6" expanded="yes" sid="3" masterid="SLIDE_4" name="Untitled" indent="0" infinite="1" advance="" transition="" durout="">
+<subslides>
+<subslide guid="204cd522_6a42_4a17_9286_c7c7ada07c0f" id="FRAME_12" expanded="yes" dur="0">
+</subslide>
+</subslides>
+</slide>
+<slide guid="2c484e60_3ac0_4bbb_a1b5_0b49cbf000e8" id="SLIDE_8" expanded="yes" sid="3" masterid="SLIDE_5" name="Untitled" indent="0" infinite="1" advance="" transition="" durout="">
+<subslides>
+<subslide guid="fdb265ec_ceee_4daa_aa2d_55d809549a34" id="FRAME_13" expanded="yes" dur="0">
+</subslide>
+</subslides>
+</slide>
+</slides>
+<objectives>
+<objective id="total" name="Main module objective" cs="i" ss="u" scoremax="100" scoremin="0" module="yes"/>
+</objectives>
+<runtimechecks>
+<runtimecheck id="MSMP" check="0"/>
+<runtimecheck id="MMFP" check="0"/>
+<runtimecheck id="MMSW" check="0"/>
+<runtimecheck id="APQT" check="0"/>
+</runtimechecks>
+</module>
